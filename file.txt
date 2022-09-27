@@ -1,3 +1,5 @@
 This is the first content of the file
 
 More changes to the file
+
+To persist the changes directly without putting the changes to the staging area
